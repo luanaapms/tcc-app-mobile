@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "S.P.A-TCC",
+    "slug": "S.P.A-TCC",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/licon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/lSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#114c9a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/licon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization"
+    ]
+  }
+}
