@@ -20,10 +20,10 @@ Desenvolver um aplicativo funcional para dispositivos móveis, visando a proteç
 
 ### 👥 Equipe S.P.A
 
-|Nome|Função|GitHub|Linkedin|
-| -------- |-------- |-------- |-------- |
-|**Luana Souza**|Desenvolvedor|[@GitHub](https://github.com/luanaapms)|[@Linkedin](https://www.linkedin.com/in/luana-souza-b104801b2/)
-|**Maria Luiza Amaro**|Desenvolvedor|[@GitHub](https://github.com/DianneFaria)|[@Linkedin](https://www.linkedin.com/in/dianne-faria-de-brito-099b3015b)
-|**Maria Luiza Gabriel**|Desenvolvedor|[@GitHub](https://github.com/pedrohenribeiro)|[@Linkedin](https://www.linkedin.com/in/pedrohenribeiro1/)
-|**Tiago Bernardo**|Desenvolvedor|[@GitHub](https://github.com/sofialessaa)|[@Linkedin](https://www.linkedin.com/in/sofiamatoslessa/)
+|Nome|Função
+| -------- |-------- |
+|**Luana Souza**|Desenvolvedor|
+|**Maria Luiza Amaro**|Desenvolvedor |
+|**Maria Luiza Gabriel**|Desenvolvedor |
+|**Tiago Bernardo**|Desenvolvedor |
 
